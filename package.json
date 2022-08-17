@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "This repo is created solely to practice and learn testing units using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ukaypromise/Jest-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ukaypromise/Jest-Test/issues"
+  },
+  "homepage": "https://github.com/Ukaypromise/Jest-Test#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
